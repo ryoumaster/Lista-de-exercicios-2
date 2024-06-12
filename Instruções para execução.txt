@@ -1,0 +1,6 @@
+Aluno: Paulo Eduardo Ferreira Duraes
+Instruções para executar os codigos:
+
+1º Realizar o clone do repositório para a sua maquina por meio do git.
+2º No VScode, utilizar o comando npm install prompt-sync para instalar o prompt
+3º Após isto, digitar no terminal o seguinte comando: node "nome_do_arquivo" e apertar enter. Exemplo node quest1.js.
